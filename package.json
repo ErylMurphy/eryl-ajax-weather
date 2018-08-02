@@ -1,0 +1,19 @@
+{
+  "name": "eryl-ajax-weather",
+  "version": "1.0.0",
+  "description": "Here's an exciting challenge: You'll be building a small weather app, using your newfound skills with APIs!",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErylMurphy/eryl-ajax-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErylMurphy/eryl-ajax-weather/issues"
+  },
+  "homepage": "https://github.com/ErylMurphy/eryl-ajax-weather#readme"
+}
