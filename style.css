@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   color: white;
-  background-size: no-repeat;
+  background-size: cover;
   background-image: url("https://media.giphy.com/media/1zVnl7hdYWpY4/giphy.gif");
   text-align: center;
   flex-direction: column;
