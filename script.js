@@ -34,7 +34,7 @@ const getWeather = (zipcode) => {
         $('body').css('background-image', 'url("https://media.giphy.com/media/l2Sq3YeO2DEyVz8ha/giphy.gif")');
       }
       else if (weather2day.main === 'Clear') {
-        $('body').css('background-image', 'url("https://media.giphy.com/media/z4Qquuhfjc3QI/giphy.gif")');
+        $('body').css('background-image', 'url("https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif")');
       }
       else if (weather2day.main === 'Clear' && weather2day.maxtemp > 30) {
         $('body').css('background-image', 'url("https://media.giphy.com/media/xT0wlvGLHmojbeu5vq/giphy.gif")')
