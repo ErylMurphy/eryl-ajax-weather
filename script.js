@@ -3,7 +3,7 @@ const getWeather = (zipcode) => {
   let inputZipcode = $('#zipcode').val();
 
 
-  return fetch(`http://api.openweathermap.org/data/2.5/weather?q=${inputZipcode},us&appid=${config.weatherAPIkey}`)
+  return fetch(`https://api.openweathermap.org/data/2.5/weather?q=${inputZipcode},us&appid=${config.weatherAPIkey}`)
     .then(response => {
       return response.json();
     })
